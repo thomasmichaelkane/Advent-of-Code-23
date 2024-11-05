@@ -1,0 +1,1 @@
+C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_three\gear_ratios\target\debug\libgear_ratios.rlib: C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_three\gear_ratios\src\lib.rs

@@ -1,0 +1,1 @@
+C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_eight\haunted_wasteland\target\debug\haunted_wasteland.exe: C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_eight\haunted_wasteland\src\lib.rs C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_eight\haunted_wasteland\src\main.rs

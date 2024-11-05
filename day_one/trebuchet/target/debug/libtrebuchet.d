@@ -1,0 +1,1 @@
+C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_one\trebuchet\target\debug\libtrebuchet.rlib: C:\Users\Admin\root\03_Code\02_Rust\01_Personal\Advent-of-Code-23\day_one\trebuchet\src\lib.rs
